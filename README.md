@@ -14,6 +14,8 @@ Scan the QR code with your phone and subscribe to the channel to get notificatio
 
 I originally created this code for league of legends but if you replace the content in "accept.jpg" file with a picture of a different accept button, it should work the same.
 
-The code runs indefinitely so I advise to terminate it after coming back to the games.
+The code runs indefinitely so I advise to terminate it after coming back to the games for a smooth experience
+
+Ensure you're connected to a WiFi source as your devices will need internet to send/receive notifications.
 
 Enjoy!
