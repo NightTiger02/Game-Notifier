@@ -1,5 +1,5 @@
 # Game-Notifier
-A python game notifier that notifies your phone when your lobby has found a match
+A python game notifier that notifies your phone that your lobby has found a match and accepts the game on your behalf
 
 # Requirements
 
@@ -17,5 +17,6 @@ I originally created this code for league of legends but if you replace the cont
 The code runs indefinitely so I advise to terminate it after coming back to the games for a smooth experience
 
 Ensure you're connected to a WiFi source as your devices will need internet to send/receive notifications.
+
 
 Enjoy!
